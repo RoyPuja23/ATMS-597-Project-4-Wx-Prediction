@@ -111,3 +111,12 @@ TMIN - 1.60 deg C\
 WMAX - 1.46 m/s\
 RTOT - 1.50 mm
 
+
+# References:
+
+1. Random Forest in Python by Will Koehrsen
+https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
+2. Hyperparameter Tuning the Random Forest in Python by Will Koehrsen
+https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+3. SciKit Learn 
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
